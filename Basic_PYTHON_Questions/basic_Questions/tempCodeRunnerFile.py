@@ -1,3 +1,0 @@
-T = int(input())
-
-while T > 0:
